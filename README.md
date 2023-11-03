@@ -1,4 +1,4 @@
-FHTW-Net Dataset
+FHTW-Net Dataset (CRLDRD)
 
 These files are used for the task of image-text retrieval of rice leaf diseases. They include:
 
